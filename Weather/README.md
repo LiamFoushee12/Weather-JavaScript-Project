@@ -3,9 +3,13 @@
 {Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
 {Provide a description of your software}
+
+
 Allows the user to look up a country and get the general weather. You cant look up specific places because I think that required me to pay and so I didn't do that.
 
 {Describe your purpose for creating this software.}
+
+
 To learn javascript and make something with it so that way I have an understanding of it and how to use it. I know javaScript is pretty important and used so I thought that this could be good to help become familiar with it a little bit.
 
 {Provide a link to your YouTube demonstration. It should be a one minute demo of the software running and a walkthrough of the code.}
@@ -17,8 +21,9 @@ To learn javascript and make something with it so that way I have an understandi
 {Describe the tools that you used to develop the software}
 Used VsCode, as well as a weather API to get weather from.
 
+{Describe the programming language that you u
+sed}
 
-{Describe the programming language that you used}
 I used a little html, css, and javascript. THe main focus was on the javascript portion.
 
 # Useful Websites
